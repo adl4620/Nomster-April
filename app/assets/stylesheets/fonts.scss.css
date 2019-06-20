@@ -8,9 +8,6 @@
 
 }
 
-
-
-
 @font-face {
     font-family: 'quicksanditalic';
     src: font_url('quicksand-italic-webfont.woff2') format('woff2'),
@@ -19,8 +16,6 @@
     font-style: normal;
 
 }
-
-
 
 
 @font-face {
